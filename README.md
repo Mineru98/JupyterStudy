@@ -1,4 +1,4 @@
-# TF_Study
+# JupyterStudy
 
 Kotlin Jupyter Kernal running
 ```
